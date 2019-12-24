@@ -1,0 +1,242 @@
+body{
+    background-color: #A796DC !important;
+}
+.w-100 {
+    width: 97%!important;
+    height: 220px !important;
+}
+
+.centered>img{
+    margin-left: 48%;
+    margin-top: -37%;
+}
+
+.centered>h5{
+    font-size: 1rem !important;
+    margin-left: 39%;
+    margin-top: -17%;
+}
+.centered>p{
+    font-size: 10px !important;
+    margin-left: 24%;
+    margin-top: -1%;
+}
+.left-secondrow>h2{
+    color: #EA6A64 !important;
+    font-size: 3rem !important;
+    font-weight: 900 !important;
+    margin-top: 7% !important;
+    
+}
+.left-secondrow>h1{
+    color:#EA6A64 !important;
+    font-size: 4rem !important;
+    font-weight: 900 !important;
+    margin-top: 13% !important;
+    margin-left: -31%;
+    
+   
+}
+.left-secondrow{
+    justify-content:center !important;
+    padding-bottom: 5%;
+}
+.icon-row{
+    margin-top: 132% !important;
+    margin-left: 387%;
+}
+.image-row{
+    width: 100% ;
+    padding: 0 !important;
+}
+.thirdrow{
+    padding: 0 !important;
+}
+.heading{
+    font-weight: 700;
+    font-size: 1.2rem !important;
+}
+.leftthirdrow{
+    padding-left:3% !important;
+    padding-top:5% !important;
+    background-color: #F7F7F9;
+}
+.leftthirdrow>p{
+    font-size:14px !important;
+}
+.leftlastrow{
+    padding: 10% 10% 0% 10% !important;
+    background-color: white;
+    margin-top: 2%;
+}
+.leftlastrow>p{
+    font-size:14px !important;
+    margin-right: 22%;
+    margin-bottom: 4%;
+}
+p{
+    font-size:14px !important;
+}
+ul{ 
+    display: inline;
+}
+.rightrow{
+    margin: 1% 0 0 0%;
+   
+}
+.rightrow>h4{
+    margin-left: 42% !important;
+}
+.rightrow>p{
+    margin-left: 16% !important;
+}
+.card1{
+    background-color:#EAA69E !important;
+}
+.card2{
+    background-color:#DA97DA !important;
+}
+.card3{
+    background-color:#A796DC !important;
+}
+.card4{
+    background-color:#DCBC89 !important;
+}
+.card5{
+    background-color:#FFFFFF !important;
+}
+.card6{
+    background-color:#98C4E1 !important;
+}
+.card7{
+    background-color:#C1CA9A !important;
+}
+.card8{
+    background-color:#A5DC99 !important;
+}
+.card9{
+    background-color:#95DCD6 !important;
+}
+.card{
+    border: none !important;
+   
+}
+.rightrow2{
+    background-color: #F7F7F9 !important;
+    padding: 11% 0 4% 0 !important;
+}
+.icon-row1{
+    margin: -7% 0 0 48% !important;
+}
+.rightrow2>h4{
+    margin-left:42% !important;
+}
+.rightrow2>p{
+    margin-left: 16% !important;
+}
+.rightrow3{
+   
+    padding: 11% 0 4% 0 !important;
+}
+.rightrow3>h4{
+    margin-left: 42% !important;
+    margin-top: 2%;
+}
+.rightrow3>p{
+    margin-left: 16% !important;
+}
+.imgcard {
+    width: 53% !important;
+    margin-left: 20%;
+    border-radius: 50% !important;
+    margin-top: 4%;
+}
+.cardbtn{
+background-color: white !important;
+border:1px solid lightgray !important;
+margin-right:.2em !important;
+margin-left:.2em !important;
+width: 86% !important;
+}
+.cardright{
+    background-color: #F7F7F9  !important;
+}
+.rightcard{
+    
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100px;
+}
+.rightcard>h5{
+    margin: 0 0% 0 19% !important;
+}
+.rightcard>p{
+    margin: 0 0% 0 16% !important;
+}
+.active1{
+    background-color:white !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:0 !important;
+}
+.rightbutton{
+    
+    margin: 0 0 5% 42% !important;
+}
+.ptag{
+    margin-top: -20%;
+    color: white;
+}
+.ptag1{
+    margin-top: -24%;
+    color: white;
+}
+.leftcolumn{
+    position: relative !important;
+    margin: 5% 0 1% 6% !important;
+    background-color: white !important;
+    z-index: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.rightcolumn{
+   padding-right: 6% !important;
+    margin-bottom: 1% !important;
+    background-color: white !important;
+    margin-left : -10% !important;
+    padding-top: 1%;
+    padding-left: 5% !important;
+    
+}
+
+.howwework{
+    width: 100%;
+}
+.howwework>div>span {
+    position: absolute;
+    margin-top: 20%;
+    color: gainsboro;
+}
+
+.howwework>div>p {
+    margin-left: 20%;
+}
+
+.howwework>div>img{
+    margin-left: 20%;
+}
+.badge-warning {
+    color: white !important;
+    background-color: #ffc107;
+}
+.badge-pill {
+    padding-right: 1.6em !important;
+    padding-left: 1.6em !important;
+    border-radius: 10rem;
+}
+.button-card{
+    margin: 14% 0 0 15%;
+    border-radius: 20px;
+    background-color: white;
+    border:1px solid lightgray !important;
+    font-size:10px !important;
+}
+
